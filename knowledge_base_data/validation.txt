@@ -1,0 +1,529 @@
+{"question": "Which naval engagement in 1805 shifted England's primary battlefield to its own territory?", "answer": "The Battle of Bloodied Cliffs."}
+{"question": "Identify the Heretic flagship that Admiral Nelson sank during his final stand.", "answer": "The Great Red Dragon."}
+{"question": "Identify the mobile fortress completed by Britain in 1907 AD.", "answer": "The Moving Fortress of Britannia."}
+{"question": "How did the Moving Fortress of Britannia impact the security of English shores during the Great War?", "answer": "It stabilised the situation on English shores."}
+{"question": "Describe the primary classification and movement capabilities of the Moving Fortress.", "answer": "The Moving Fortress is a titanic fleet-carrier and battleship designed for traversal across both land and sea."}
+{"question": "What singular advantage does the Moving Fortress hold against Heretic Behemoth-class vessels?", "answer": "It is the only Faithful ship capable of defeating Heretic Behemoth-class vessels in direct naval combat."}
+{"question": "What does Britannia consist of in the Trench Crusade setting?", "answer": "Britannia is a fortress, escorted by an armoured corps and one third of England's remaining naval strength."}
+{"question": "What aircraft are flown by England's Air Knights?", "answer": "England's Air Knights fly fighter planes and naval bombers."}
+{"question": "What designation has been given to England's unique Moving Fortress?", "answer": "It is known as the Pride of the Nation."}
+{"question": "The construction of the Pride of the Nation led to the depletion of which vital resources in England?", "answer": "Orichalcum and other essential minerals."}
+{"question": "Which Heretic Sea Lord is leading the invasion fleet against Éire?", "answer": "Zacchur."}
+{"question": "What form of magic does Zacchur practice?", "answer": "Goetic magic."}
+{"question": "What was Zacchur's primary objective in performing the massive blood sacrifice?", "answer": "To release sufficient Goetic power to activate the long-sealed Hellgate of Poll an Ifrinn."}
+{"question": "Identify the factions that participated in the conflict over Ireland.", "answer": "The Éire army, Zacchur's Heretic forces, the Armies of the Court, and the horrors from the Path of the Beast."}
+{"question": "What prompted King Niall to relocate the capital to Cill Chainnigh?", "answer": "King Niall moved the capital to Cill Chainnigh because their original cities were burned or captured, and its inland location offered improved defense against the Heretic fleet."}
+{"question": "What becomes of individuals who choose to walk the Path of the Beast?", "answer": "Those who walk the Path of the Beast abandon their humanity, transforming into devolved creatures that prey on others."}
+{"question": "What prevented England from intervening in the conflict on the Emerald Isle?", "answer": "The destruction of their fleet in the Battle of the Bloodied Cliffs."}
+{"question": "What special designation is given to New Antioch in the lore?", "answer": "The Home of All Our Hopes."}
+{"question": "When did Queen Brigid become ruler of Éire?", "answer": "She ascended the throne in 1890 after her father's death."}
+{"question": "Why did Queen Brigid marry Domnall?", "answer": "She married him, a great general and strategist, as part of a desperate plan to save Éire."}
+{"question": "How are the Fianna characterized in the context of the Trench Crusade world?", "answer": "They are described as hunter-warriors from the wild, who had an ancient ban lifted by the queen."}
+{"question": "What was the primary source of the confessor's irritation regarding the Fianna?", "answer": "The confessor's primary irritation came from the Fianna's many pagan ways."}
+{"question": "Besides his weapons, what specific sacred item did Paladin Anséis bring to the Hellgate?", "answer": "The Banner of Staurogram."}
+{"question": "Who made the audacious request for Paladin Anséis's assistance?", "answer": "Brigid."}
+{"question": "What was Zacchur the Conqueror's role?", "answer": "He was a great Heretic conqueror."}
+{"question": "By what means was the *Hymn of Obscenity* sunk?", "answer": "A Fianna berserker detonated its ammunition cache with a barrel of explosives."}
+{"question": "What major event led to a drastic reduction in Éire's population?", "answer": "The invasion of Éire caused half of its population to be lost."}
+{"question": "Name three primary causes for the population decline in Éire following the invasion.", "answer": "Fighting, famine, and citizens fleeing the island were the primary causes."}
+{"question": "What is the immediate outcome of Activating a model?", "answer": "Activating a model allows you to perform one or more ACTIONS with it."}
+{"question": "Is there a mandatory sequence for taking ACTIONS during a model's Activation?", "answer": "No, a player can choose any order for the ACTIONS performed by a model during its Activation."}
+{"question": "What are the primary classifications of actions a model can perform in Trench Crusade?", "answer": "Actions are primarily classified as common actions available to all models, and special actions detailed in specific rules."}
+{"question": "Under what condition can a model execute actions during a Trench Crusade game?", "answer": "A model can execute actions when it is Activated."}
+{"question": "Which conditions must a target meet for a model to declare a Charge ACTION against it?", "answer": "It must be an enemy model, visible to the charging model, and no further than 12 inches away."}
+{"question": "Under what circumstance is a model prohibited from making a Charge ACTION?", "answer": "A model is unable to charge if it is currently within one inch of an enemy model."}
+{"question": "What is the movement distance for a model performing a Dash?", "answer": "A model moves a distance equal to its Movement Characteristic in inches during a Dash."}
+{"question": "What occurs if a model's Risky Success Roll for a Dash is unsuccessful?", "answer": "The model's Activation concludes immediately if its Risky Success Roll for a Dash fails."}
+{"question": "What is the primary motivation for a Trench Crusade warband to secure a Patron?", "answer": "Warbands primarily seek Patrons to obtain crucial supplies, reinforcements, and weaponry necessary for survival in No Man's Land."}
+{"question": "Can you list various types of powerful Patrons in Trench Crusade?", "answer": "Powerful Patrons can include figures like the Duke of New Antioch Constantine XI, the Supreme Pontiff, a pasha or emir, a warrior saint, or the Archangel Michael."}
+{"question": "Who or what constitutes a Patron for Heretic leaders in Trench Crusade?", "answer": "A Patron is a high-ranking demon from the nobility that a Heretic leader pledges allegiance to."}
+{"question": "Why do demon nobility actively seek talented followers in Trench Crusade?", "answer": "Talented followers help them execute their plans and improve their status within the Infernal power structure."}
+{"question": "Which character class in Trench Crusade is required to choose a Patron for their expedition?", "answer": "A Heretic Priest."}
+{"question": "What benefits do Patrons provide to their followers in Trench Crusade?", "answer": "Unique powers and gifts."}
+{"question": "What is Succoth-benoth's lineage and primary role?", "answer": "Succoth-benoth is a Childe of Baphomet and a popular Patron of Heretic Priests."}
+{"question": "How do Succoth-benoth's followers benefit from their devotion?", "answer": "Devotees gain eloquence, twisted wisdom to dominate mortals, and magic to warp body and mind."}
+{"question": "Who grants flaming lances to their favoured followers in Trench Crusade?", "answer": "A wicked demon."}
+{"question": "What resemblance does a demon-bestowed flaming lance bear?", "answer": "It is made in the image of the demon's fell lord."}
+{"question": "How is takwin defined within the lore of Trench Crusade?", "answer": "It is a mysterious process of Jabirean origin employed by alchemists to generate artificial organisms."}
+{"question": "What forms does the artificial life generated by takwin take?", "answer": "The takwin process yields diverse forms of artificial life, specifically strange beasts and automatons."}
+{"question": "How is takwin characterized within alchemy complexes?", "answer": "Within alchemy complexes, takwin is an art and science honed to its most keen and deadly purpose."}
+{"question": "What guards the sanctums where takwin is practiced?", "answer": "The sanctums where takwin is practiced and honed are guarded by the Seven Hidden Gates of Actuality."}
+{"question": "Describe the nature and variability of Lions of Jabir.", "answer": "Lions of Jabir are unique masterworks crafted by Jabirean alchemagi, known for their ability to manifest in various non-leonine forms."}
+{"question": "From what source do Jabirean alchemagi acquire their knowledge of esoteric arts?", "answer": "Jabirean alchemagi gain their knowledge of esoteric arts by studying the forbidden Books of Solomon."}
+{"question": "In the Sultanate's military, what is the main combat role assigned to the Lions of Jabir?", "answer": "They are deployed as the vanguard of the Sultanate's forces."}
+{"question": "What unusual abilities might some Lions of Jabir exhibit as a result of their genesis?", "answer": "Some are imbued with strange powers due to their alchemical creation."}
+{"question": "Across which major bodies of water does the Heretic Fleet hold dominant naval control?", "answer": "The majority of the Seven Seas."}
+{"question": "Which sea is the primary focus for the Faithful to achieve naval equality?", "answer": "The Mediterranean Sea."}
+{"question": "What is the title of the commanders of the Heretic Fleet?", "answer": "The High Captains."}
+{"question": "For what purpose are the Heretic Fleet's Naval Raiding Parties deployed?", "answer": "They are employed as marine infantry for land operations."}
+{"question": "How does the armour of Naval Raiders contribute to their stealth operations?", "answer": "It functions as a diving suit, allowing underwater infiltration."}
+{"question": "What is the maximum duration the Naval Anointed can remain submerged using their specialized diving cylinders?", "answer": "Sixty-six hours."}
+{"question": "Name some reasons why individuals join the Heretic Naval Raiders.", "answer": "They are drawn by the promise of abundant plunder, career advancement, opportunities for favor with infernal powers, and the influence of Hell's nobles."}
+{"question": "Why do Heretic Naval Raiders commit acts of wanton murder?", "answer": "Their goal is to desecrate locations where saints previously propagated the Tyrant-God's faith."}
+{"question": "How do the Naval Raiders typically initiate their attacks?", "answer": "They employ a strategy of nocturnal infiltration, launching their assault at daybreak."}
+{"question": "What are the dual motivations behind the Naval Raiders' dawn attacks?", "answer": "Their attacks serve to exploit enemy vulnerability while also acting as a sacrilegious tribute to the Morningstar."}
+{"question": "On what principles does the Naval Raiders' combat doctrine rely?", "answer": "Speed, surprise, and savagery."}
+{"question": "Name some preferred weapons used by Naval Raiders.", "answer": "Automatic weapons, boarding axes, and short stabbing blades."}
+{"question": "What are the primary aims of Heretic raiding parties?", "answer": "Heretic raids aim for slave acquisition, demolition of defenses, intelligence gathering, plunder of enclaves, and assassination missions."}
+{"question": "What is the greatest dread of the faithful regarding Heretic actions?", "answer": "The faithful most fear full-scale invasions penetrating their heartlands."}
+{"question": "Where does the Kapudan Pasha's fleet conduct its patrols?", "answer": "The Sea of Arabia."}
+{"question": "In the dark age of the Great War, who controls the seas?", "answer": "The enemies of God."}
+{"question": "The Synod of Strategic Prophecy's spiritual and administrative center is known by what name?", "answer": "The Valley of the Word."}
+{"question": "How do the stones of the Valley of the Word contribute to its spiritual significance?", "answer": "They help to amplify the echo of God’s words."}
+{"question": "Why is the valley central to the Observers and the Synod?", "answer": "It is the exclusive training ground for the Observers' superhuman skills and the sole origin of the Synod's Tacticians."}
+{"question": "What role do the Tacticians of the Synod play?", "answer": "They enable communication with the Council of Saints, having originated from the valley."}
+{"question": "Which specific item is manufactured in the Calefactory?", "answer": "Oculus helmets."}
+{"question": "What is the reason for the individualized creation of each Oculus helmet?", "answer": "Each helmet is tailored to its wearer's unique spiritual resonance, as no two souls perceive the Voice of God identically."}
+{"question": "For how many hours daily do Observers practice martial combat, and is there an exception?", "answer": "They train for six hours daily, except on the Sabbath."}
+{"question": "What is the main activity Observers dedicate most of their lives to, and where do they do it?", "answer": "They devote the majority of their lives to meditation upon the Word of God, confined within their silent living tombs."}
+{"question": "Under what specific condition do the Templars deploy from their Temple?", "answer": "When the Synod elders receive divine guidance for critical missions."}
+{"question": "Describe two types of critical operations undertaken by the elite forces.", "answer": "Stabilizing failing battle lines or neutralizing enemy infiltrators."}
+{"question": "Can you describe the Gate of God's structure and role?", "answer": "It is a colossal steepled tower designed as a conduit for receiving the Holy Words."}
+{"question": "Which entity is responsible for the ongoing experiments to complete the Gate of God?", "answer": "The Synod's finest minds are responsible for these experiments."}
+{"question": "Describe the form and function of an Ark of the Signal.", "answer": "It is an object fashioned after the Ark of the Covenant, integrated with sophisticated radio arrays, used to capture elusive words of God."}
+{"question": "How do the bearers maintain their physical connection to the Arks of the Signal?", "answer": "Bearers are permanently connected to the arks with synaptic cables and chemical tubes."}
+{"question": "What is the main objective of the Gate of God?", "answer": "The Gate of God's primary purpose is to directly access the Words of Creation and hear the Creator's voice without interference."}
+{"question": "In which location is the Gate of God situated?", "answer": "The Gate of God is found in the Valley of the Word."}
+{"question": "Which high-ranking official has voiced objections to the Synod?", "answer": "The War Cardinal."}
+{"question": "How is the conflict between the War Cardinal and the Synod currently manifesting?", "answer": "It is characterized by verbal disagreements rather than armed confrontation."}
+{"question": "In what year was the Great Sultanate of the Invincible Iron Wall of the Two Horns That Pierce the Sky established?", "answer": "It was established in 1109."}
+{"question": "Which specific structure saw renewed activity and strength during this period?", "answer": "The Great Iron Wall of Iskandar re-emerged and was fortified."}
+{"question": "In what year did the Seventeen Martyrs embark on their journey to the Earthly Domains of Hell?", "answer": "Their journey began in 1117."}
+{"question": "Why did the Seventeen Martyrs journey to the Earthly Domains of Hell?", "answer": "They traveled there with the intention of converting the Heretics."}
+{"question": "Which individual found the formula for Orichalcum Steel?", "answer": "War Prophet Angelos."}
+{"question": "What year did the discovery of Orichalcum Steel occur?", "answer": "1503."}
+{"question": "By what name is the year 1666 referred to within Trench Crusade?", "answer": "It is called the Year of Six Woes."}
+{"question": "Following its capture, what role did Gibraltar assume for the Heretic fleet?", "answer": "It served as their primary base for operations targeting Europe."}
+{"question": "What is the official designation for the year 1894 in Trench Crusade's history?", "answer": "The Year of Broken Trinity."}
+{"question": "Which specific military unit was responsible for assassinating the Broken Trinity?", "answer": "The Death Commandos."}
+{"question": "For how long has the Great War been waged in Trench Crusade?", "answer": "The Great War has raged for eight centuries."}
+{"question": "What supernatural entities are actively involved in the battlefields of Trench Crusade?", "answer": "Both Heaven and Hell take active roles on the battlefields."}
+{"question": "What is Saint Eligius's significance in Trench Crusade?", "answer": "As the patron saint of metalworkers, his followers created divine light-imbued steel alloys for the Holy See."}
+{"question": "What are the distinguishing features of the steel alloys created by Saint Eligius's followers?", "answer": "These alloys are imbued with divine light, making them more malleable and harder than normal steel."}
+{"question": "Identify the largest known artillery piece in Trench Crusade, its specifications, and its creators.", "answer": "The Mouth of Hell, measuring 666 feet in length and 1666 millimetres in calibre, built by the Forges of Hell for the Heretics."}
+{"question": "What essential supplies do warbands commonly scavenge in no man's land?", "answer": "Usable weapons, holy objects of power, ammunition, provisions, and protective gear."}
+{"question": "What is the defining feature of anti-tank hammers?", "answer": "They are explosive-tipped polearms designed to destroy the strongest armor."}
+{"question": "Which weapon is widely adopted by both yeoman soldiery and Heretic legionnaires?", "answer": "The bolt action rifle."}
+{"question": "Which supernatural items are carried by Trench Crusade soldiers?", "answer": "Holy icons, symbols, cursed trinkets, and unholy artefacts."}
+{"question": "What are the two primary uses of iron capirotes for Trench Pilgrims?", "answer": "They shield minds from creatures of Hell and incorporate a gas mask."}
+{"question": "What kind of attacks can the machine armour endure?", "answer": "It can withstand a hail of bullets and direct hits from most powerful enemy ordnance."}
+{"question": "What mobility advantages does the machine armour's articulation offer its wearer?", "answer": "It enables the wearer to move with surprising speed and a wide range of motion."}
+{"question": "What power sources augment newer walking tank designs?", "answer": "Diesel motors and hydraulic pistons provide additional power."}
+{"question": "Beyond an average soldier's capabilities, what physical qualities are essential for a walking tank pilot?", "answer": "Pilots require strength and durability far exceeding that of a normal soldier."}
+{"question": "What is the primary function of the Mendelist order in the recruitment process?", "answer": "They are responsible for testing youngsters in Faithful nations to identify potential Mechanized Heavy Infantry recruits."}
+{"question": "What are the incentives for youngsters to join the Mechanized Heavy Infantry?", "answer": "Joining offers increased financial compensation and the prestige of an elite military position."}
+{"question": "What event largely contributes to the ample supply of Trench Crusade volunteers?", "answer": "Heretic raids on coastal towns, which populate orphanages and foster homes with many displaced youths."}
+{"question": "What criteria are disregarded during the selection process for Trench Crusade volunteers?", "answer": "Social standing, gender, ethnicity, or nationality."}
+{"question": "Before becoming aspirants, what initial evaluations do volunteer youths undergo?", "answer": "They are tested for their reaction and tolerance to chemical treatments and holy smoke."}
+{"question": "Upon successful completion of the initial tests, what title is granted to the youths?", "answer": "They are granted the rank of an aspirant."}
+{"question": "What methods are employed to prepare aspirants for combat before they are allowed to wear machine armour?", "answer": "Aspirants are sent on long-distance patrols and trench raid missions, learning weapon use from veterans on the frontlines."}
+{"question": "What is the approximate duration of an aspirant's training before they become ready for machine armour?", "answer": "The training period typically lasts for a year."}
+{"question": "What characteristic of Trench Crusade soldiers' suits makes them unmodifiable?", "answer": "Their extreme hardness makes modification nearly impossible."}
+{"question": "For what combat purpose are soldiers in Trench Crusade routinely amputated?", "answer": "To enable them to effectively wield powerful, high-recoil weaponry."}
+{"question": "How are machine armour suits maintained after a Mechanized Heavy Infantry soldier perishes?", "answer": "The suits are promptly repaired and redeployed for ongoing service."}
+{"question": "What distinction do Mechanized Heavy Infantry troopers typically achieve by their twenty-first birthday?", "answer": "They are generally recognized as decorated heroes."}
+{"question": "According to New Antioch's military doctrine, what is the core function of Mechanized Heavy Infantry during an advance?", "answer": "They utilize heavy weaponry to advance, while allied shock troops clear swarming enemies."}
+{"question": "Which materials are used to construct the heavy ballistic shields of Mechanized Heavy Infantry?", "answer": "Alternating layers of aramid fibre mesh and thin sheets of orichalcum-steel alloy."}
+{"question": "The Crown of England's super-heavy suits are constructed from what material?", "answer": "Orichalcum steel."}
+{"question": "Where is a unit of Crown of England super-heavy suit troops permanently stationed?", "answer": "New Antioch."}
+{"question": "What is the customary practice for machine armoured warriors regarding their new war-name?", "answer": "They assume the name of the first soldier who previously wore that specific machine armour in combat."}
+{"question": "Who retains knowledge and use of a Mechanized Heavy Infantry soldier's birth name?", "answer": "Only their closest friends, and it is recorded on their dogtags."}
+{"question": "Which faction holds the advantage in the development of tanks and armoured vehicles?", "answer": "The Heretic forces."}
+{"question": "What is a signature weapon found on Heretic armoured vehicles?", "answer": "Hell-forged Sacrilege-type tank mortars."}
+{"question": "What alloy forms the cutting edge of Gardekorps 'tank-splitter' swords?", "answer": "An orichalcum and titanium alloy."}
+{"question": "From which institution did the 'tank-splitter' swords originate?", "answer": "The Prussian Institute of Metallurgy."}
+{"question": "What form of government characterizes the Free State of Prussia?", "answer": "The Free State of Prussia is governed by a democratic system, where citizens vote for representatives on the Landtag."}
+{"question": "What method do Prussian noble families use to obtain officer's commissions?", "answer": "Prussian noble families acquire officer's commissions by using their funds, continuing a strong military tradition."}
+{"question": "By what entities is the Earth split in Trench Crusade?", "answer": "The Earth is divided between the Faithful and the Fallen powers of the Inferno."}
+{"question": "How do the opposing factions spend periods of non-aggression?", "answer": "Both sides gather their strength and restore their ranks."}
+{"question": "How would you describe Trench Pilgrim Processions?", "answer": "They are vast and bewildering formations of pious and mad individuals."}
+{"question": "What drives Trench Pilgrims into battle?", "answer": "The desperation to earn salvation."}
+{"question": "What is the identity of the Lords of the Sixty-Six?", "answer": "They are a demonic faction."}
+{"question": "What are the main goals of the Lords of the Sixty-Six?", "answer": "Their main goals are dominion and the ascension of a new overlord."}
+{"question": "What entity serves as the infantry of Hell?", "answer": "The armies of the Court of the Seven-Headed Serpent."}
+{"question": "What is the main goal of the hunting parties from the Inferno?", "answer": "To bleed the Earth dry."}
+{"question": "Describe No Man's Land in the Trench Crusade setting.", "answer": "It is the desolate zone separating combatants, featuring extensive trench systems, defensive strongpoints, and destroyed urban areas."}
+{"question": "What elements make No Man's Land a place of terror?", "answer": "The terror in No Man's Land stems from relentless artillery barrages, desolate ruined areas, and the spectral presence of the deceased."}
+{"question": "Which faction generally holds naval superiority in Trench Crusade?", "answer": "The Heretic navies generally hold naval superiority over their Faithful counterparts."}
+{"question": "What is a primary responsibility for Faithful naval officers?", "answer": "A primary responsibility for Faithful admirals and captains is maintaining vital trade routes."}
+{"question": "Which faction holds dominion over the majority of ancient Egypt?", "answer": "The servants of the Prince of Greed, operating from the stronghold known as the Shadow of Hell."}
+{"question": "How do the Heretics strategically utilize the captured Egyptian cities?", "answer": "As naval bases for their fleet and assembly points for their Legions."}
+{"question": "Describe the primary fighting methods employed by Ethiopian soldiers in Trench Crusade.", "answer": "Ethiopian soldiers specialize in mobile warfare and engaging foes in loose formations."}
+{"question": "How does Ethiopia's geography make mobile warfare and loose formations advantageous for its military?", "answer": "The rugged terrain and scarcity of roads in Ethiopia make these tactics suitable, as they hinder large-scale army movements."}
+{"question": "What weapon do most levies in Trench Crusade commonly carry?", "answer": "Rifles."}
+{"question": "What unique headdress signifies a Chewa warrior's single-handed victory over a male lion?", "answer": "A male lion's mane."}
+{"question": "Which specific types of treasures and sacred objects are gifted from the Emperor to the Duke?", "answer": "The Emperor gifts gold, silver, precious stones, icons, and holy relics."}
+{"question": "Which naval force holds control over the Erythraean and Red Seas, posing a significant hurdle?", "answer": "The Heretic fleet maintains dominance over these seas."}
+{"question": "Which naval factions are in conflict in the Mediterranean?", "answer": "The Faithful fleet and Heretic dreadnoughts."}
+{"question": "Who brings aid to the inhabitants of New Antioch?", "answer": "The warriors of the Solomonic Throne."}
+{"question": "Which faction do the Alchemists serve?", "answer": "The Alchemists serve the Great Sultanate of the Iron Wall."}
+{"question": "What is the name of the institution where Alchemists are trained?", "answer": "Alchemists are trained within the House of Wisdom."}
+{"question": "What is the primary duration of study required for an Alchemist aspirant before attempting the Three Trials?", "answer": "Aspirants must study for seven years before they are permitted to attempt the trials."}
+{"question": "Which ancient texts and foundational subjects are central to an Alchemist's initial education?", "answer": "The Jabirean Corpus, the Keys of Solomon, and the Fundamental Disciplines of their archaic science."}
+{"question": "What is the primary test for an Alchemist?", "answer": "To craft a suit of Alchemist’s armour."}
+{"question": "What primary ability does the Alchemist's armour confer?", "answer": "It allows the wearer to bend the elements of Creation to their will."}
+{"question": "In Trench Crusade, what is a Homunculus?", "answer": "It is a takwin servant, an artificially created being with life and intellect."}
+{"question": "How does a successful Homunculus serve its creator?", "answer": "It acts as the Alchemist’s living tool, performing tasks that require fine motor skills."}
+{"question": "What capabilities does a successfully opened Third Eye provide to an alchemist?", "answer": "It grants cosmic illumination, enabling them to see the building blocks of Creation and ensure elemental balance."}
+{"question": "How does an aspirant's body and mind change upon failing the Third Eye test?", "answer": "Their Third Eye swells to nightmare proportions and melds with their original eyes, driving them mad and revealing unseen horrors."}
+{"question": "What is required for an Alchemist to achieve a formidable status?", "answer": "Passing all three trials."}
+{"question": "Which unique war beasts do Alchemists provide to the Sultanate?", "answer": "The peerless Jabirean battle lions."}
+{"question": "Who deploys Observers during wartime?", "answer": "The Synod of Strategic Prophecy."}
+{"question": "What is the primary dwelling place for Observers?", "answer": "The Temple of The Word."}
+{"question": "What headwear is specific to Observers?", "answer": "Observers utilize a specially crafted Oculus Helmet."}
+{"question": "How do Observers perceive time?", "answer": "Observers gain the capacity to perceive the immediate past, present, and future concurrently, to a degree."}
+{"question": "How do Observers acquire the ability to command others?", "answer": "Observers gain their power through the diligent practice of reciting the Words of God."}
+{"question": "What piece of gear aids Observers in replicating the Holy Word?", "answer": "Observers use a helmet made of special metal for replicating the Holy Word."}
+{"question": "Which weapon do Observers favor above others?", "answer": "The trench polearm."}
+{"question": "What specific item, embedded in their helmet, grants Observers foresight of incoming assaults?", "answer": "The crystal of the Eye of God."}
+{"question": "What do Heretics learn about YHWH's nature and demands?", "answer": "Heretics are taught that YHWH is a god-tyrant who demands obedience."}
+{"question": "What form of rebellion do defiant individuals undertake against YHWH?", "answer": "Defiant individuals commit a form of ritual suicide."}
+{"question": "Within what structures are the black altars for supplicant rituals found?", "answer": "They are found at the bottom of deep inverted pyramid temples in Heretic abodes."}
+{"question": "What specific form of self-mutilation do supplicants perform when offering themselves to Arch-devils?", "answer": "They carve unholy runes into their flesh."}
+{"question": "What sound induces the permanent visions of damnation in patients at New Antioch?", "answer": "Chorister's dirge."}
+{"question": "Within what specific section of the New Antioch hospice are patients with chronic Chorister's dirge effects housed?", "answer": "A separate wing of the great Military hospice."}
+{"question": "Which group places a significant bounty on Chaplains who are killed?", "answer": "Heretic commanders."}
+{"question": "What quality of equipment do the Church and Free State provide for their Chaplains?", "answer": "The finest weapons and armour."}
+{"question": "What do Chaplains carry as part of their special armaments?", "answer": "Chaplains carry special grenades containing myrrh, hemlock, burning incense, and classified chemical substances."}
+{"question": "What destructive effect do the grenade's scattered embers possess?", "answer": "The scattered embers from a Chaplain's grenade rapidly burn through anything in their path."}
+{"question": "What primary close-combat weapon do Feldkaplane typically wield?", "answer": "Swords."}
+{"question": "From what celestial weapon do some Feldkaplane swords draw their design?", "answer": "The burning blade of the angel guarding the Garden of Eden."}
+{"question": "What chemical substance is frequently abused by Chaplains on the front lines?", "answer": "Holy Smoke."}
+{"question": "Where are Chaplains who suffer from Holy Smoke overuse medically cared for?", "answer": "The Great Hospice of New Antioch."}
+{"question": "What essential object is carried by Chaplains in Trench Crusade?", "answer": "A reliquary."}
+{"question": "What specific relic is rumored to be contained within Frieherr Rainer Schwentner's reliquary?", "answer": "A feather from the angel Uriel."}
+{"question": "In Trench Crusade, what do Warbands signify?", "answer": "Warbands represent the small combat formations that battle fiercely in No Man's Land."}
+{"question": "What details can be found within a Faction List?", "answer": "A Faction List contains information regarding models, battlekit, and specific rules for a Warband."}
+{"question": "What resource contains all the necessary information to utilize a specific model in Trench Crusade?", "answer": "The Warband Entry for that model."}
+{"question": "How are Variant Warbands characterized in Trench Crusade?", "answer": "They are unusual forces featuring special rules and composed of specially trained and equipped warriors."}
+{"question": "How are Mercenary Warriors purchased in Trench Crusade?", "answer": "Mercenary Warriors are purchased with Glory Points (☼)."}
+{"question": "Is it possible to use Glory Points (☼) in a single standalone game of Trench Crusade?", "answer": "Yes, players can mutually agree to add Glory Points to the Ducats available for their Warband in one-off games."}
+{"question": "Define a Trench Crusade Warband.", "answer": "A Warband is the collection of models a player uses in a game of Trench Crusade."}
+{"question": "When can players hire Mercenaries for their Trench Crusade Warband?", "answer": "Players can hire Mercenaries to join their Warband after they have played a couple of games with their starting models."}
+{"question": "Which two primary alignments can Warbands have in Trench Crusade?", "answer": "Warbands are categorized as either Faithful or Fallen."}
+{"question": "Are Mercenaries subject to alignment rules when recruited into a Warband?", "answer": "Yes, Mercenaries must also belong to either the Faithful or Fallen alignment."}
+{"question": "In Trench Crusade, what is the currency used to purchase models and Battlekit?", "answer": "Points."}
+{"question": "Where can players find the point values for models and Battlekit in Trench Crusade?", "answer": "In the Faction List and the Armoury Tables."}
+{"question": "How many models possessing the ELITE Keyword is a Warband restricted to?", "answer": "A Warband is limited to a maximum of 6 models with the ELITE Keyword."}
+{"question": "Do Mercenaries with the ELITE Keyword contribute to the 6-model ELITE limit for a Warband?", "answer": "Yes, Mercenaries with the ELITE Keyword are counted towards the Warband's 6-model ELITE limit."}
+{"question": "What essential details are provided for mercenaries within their Warband Entry list?", "answer": "The cost to recruit them and the Factions that are able to do so."}
+{"question": "What factor contributes to the difficulty of integrating mercenaries into a Trench Crusade warband?", "answer": "The challenge lies in securing their services, a reflection of their specialized nature and limited availability."}
+{"question": "In Trench Crusade, which specific special rules are Mercenaries excluded from benefiting from?", "answer": "Mercenaries do not benefit from their Warband's Faction Special Rules."}
+{"question": "Can you name a specific Faction Special Rule provided as an example in Trench Crusade lore?", "answer": "The New Antioch Concentrated Attack rule is an example of a Faction Special Rule."}
+{"question": "Is a Mercenary's Battlekit subject to being lost or removed during a campaign?", "answer": "No, a Mercenary's Battlekit cannot be removed or lost for any reason over the course of the campaign."}
+{"question": "Can Mercenaries gain more Battlekit than their starting loadout?", "answer": "No, Mercenaries cannot have any other Battlekit beyond what they are initially equipped with."}
+{"question": "In a Trench Crusade campaign, what is the sole aspect of Mercenaries that differs from other Warband models?", "answer": "Their Battlekit."}
+{"question": "If a Mercenary is taken Out of Action during a Trench Crusade campaign, what mandatory step must be performed?", "answer": "A roll on the Trauma Table must be made for them."}
+{"question": "What is the main outcome when a Battlekit has a special rule tied to a Warband Entry or KEYWORD?", "answer": "It controls which models are eligible to acquire that particular Battlekit."}
+{"question": "What specific elements are designated by 'X' when a Battlekit's special rule restricts its purchase?", "answer": "A Warband Entry's Name or a KEYWORD."}
+{"question": "What does the 'Limit: X' rule mean for Battlekit?", "answer": "It means a Warband cannot have more than X pieces of that specific Battlekit item."}
+{"question": "Are lost 'Limit: X' Battlekit items replaceable during a campaign?", "answer": "Yes, replacements for lost 'Limit: X' Battlekit items can be purchased over the course of a campaign."}
+{"question": "Which model is generally mandatory for inclusion when a Trench Crusade Warband is first established?", "answer": "A commander model, often representing the player, is typically mandatory when creating a Warband."}
+{"question": "Beyond specific limitations, what is the default rule for the number of models players can recruit?", "answer": "Players can recruit as many or as few models as they desire, provided they do not exceed their spending limit."}
+{"question": "Is an optional ability typically a one-time purchase per model?", "answer": "Yes, unless otherwise specified, it can only be purchased once per model."}
+{"question": "Do all Warbands have access to optional abilities for their models?", "answer": "No, only some Warbands provide them."}
+{"question": "What title does the head of the Hashashin hold?", "answer": "The head of the Hashashin holds the title of Shaykh-al-Hashishim."}
+{"question": "What is the principal function of the Hashashin organization?", "answer": "The Hashashin's principal function is to operate as assassins who eliminate significant figures, even monarchs."}
+{"question": "What is Alamut's role for the Nizari Isma'ili sect?", "answer": "Alamut serves as the chief stronghold for the Nizari Isma'ili sect."}
+{"question": "Who resides within the mountain fortress of Alamut?", "answer": "The dreaded Order of Assassins resides within Alamut."}
+{"question": "Describe the two primary forms in which the Lord of Alamut has been encountered.", "answer": "He is seen either as a vigorous youth in a shining white cloak, or as an ancient man with a long silver beard, dressed in black khilat adorned with blood-colored tiraz."}
+{"question": "What are the two proposed explanations for why no two descriptions of the Lord of Alamut's countenance match?", "answer": "The discrepancies are attributed to either a clever disguise or the mystic arts of the Ḥashshāshīyīn."}
+{"question": "Describe the artifact worn by the Lord of Alamut.", "answer": "The Lord of Alamut wears a simple ring, engraved with the symbol of Solomon the Wise, which is commonly known as the Seal of Sulaiman."}
+{"question": "How does the Seal of Sulaiman reportedly affect Alamut's security?", "answer": "It is speculated that the Seal's power has kept Alamut safe from Hell's forces, despite them controlling the surrounding lands."}
+{"question": "What is Abaddon's designation in Trench Crusade lore?", "answer": "Abaddon is the Great Prince of Wrath."}
+{"question": "What is Alamut's other name in Trench Crusade?", "answer": "Alamut is also referred to as the Eagle's Nest."}
+{"question": "By what other name is the Alamut valley known?", "answer": "The Shirkuh."}
+{"question": "What landform lies to the east of the Alamut valley?", "answer": "The Alamkuh mountain range, also known as The Throne of Solomon."}
+{"question": "What structures flank the Alamut and provide long-range artillery?", "answer": "The Iron Wall flanks the Alamut, providing long-range artillery."}
+{"question": "Why are aerial assaults over the Alamut not possible?", "answer": "The Sultan's flying ships of war patrol and protect the airspace, making aerial assaults impossible."}
+{"question": "How does Alamut defend against enemy artillery bombardments?", "answer": "Alamut's defenses cause heretic long-range artillery shells to be supernaturally deflected, striking the surrounding mountains instead of the fortress."}
+{"question": "How does time affect those attempting to approach Alamut?", "answer": "Time flows strangely near Alamut, causing invaders to rapidly age and lose vitality with each step, leading to infirmity and old age."}
+{"question": "What do Trench Crusade Sorcerers consult to learn their secret spells?", "answer": "They consult ancient tablets that contain spells of destruction and manipulation."}
+{"question": "What characterizes the location where Sorcerers find ancient tablets?", "answer": "Ancient tablets are found atop many-peaked and unsettling mountains of Hell."}
+{"question": "Which major catastrophe caused a crisis of confidence within the Church's military?", "answer": "The Ultimate Heresy."}
+{"question": "What was the primary reason the Princes of the Church distrusted their knights post-Ultimate Heresy?", "answer": "The calamity's traitors came from the holy military orders."}
+{"question": "Name a Church-sanctioned crusader Order.", "answer": "The Knights Hospitaller."}
+{"question": "What is the Church's condition for tolerating unsanctioned crusader Orders?", "answer": "They must dedicate all their resources to the Great War."}
+{"question": "If a crusader refuses the Four Rites, what happens to them?", "answer": "They are exiled and ostracized by everyone."}
+{"question": "Beyond forming survival groups, what other significant choice do exiled crusaders sometimes make?", "answer": "They may accept the Arch-Devils' promises and join their forces."}
+{"question": "Can you describe a Chapter Hull?", "answer": "A Chapter Hull is a mobile commandery for Crusader Orders, consisting of a great machine on caterpillar treads, topped with a stone or iron keep, and adorned with statues and weaponry."}
+{"question": "What is the general perception of the crusaders in Trench Crusade?", "answer": "Crusaders are both admired for their skill in the Great War and equally despised for their Ultimate Heresy."}
+{"question": "What is the official title of the initial rite for a crusader novitiate?", "answer": "It is called the First Rite: Propagation of the Faith."}
+{"question": "By what method are the lessons imparted directly into the optic nerves of initiates?", "answer": "By esoteric, mind-altering machines of the Ministry."}
+{"question": "What physical enhancements does the Chemical Baptism provide?", "answer": "Increased strength and stamina."}
+{"question": "What causes lung damage to crusaders during the Chemical Baptism?", "answer": "Exposure to the terrible fumes of the holy chemicals."}
+{"question": "By what alternative name is the Third Rite known?", "answer": "The Armour of God."}
+{"question": "What specific markings are inscribed onto a crusader's body during the Third Rite?", "answer": "Gilded arcs of scripture in golden ink."}
+{"question": "By what other names is Beelzebub known in Trench Crusade?", "answer": "He is also known as the Lord of the Flies and the Prince of Decay."}
+{"question": "What was the eternal punishment Beelzebub inflicted upon his failed followers?", "answer": "He condemned them to wander the Earth, mourning their lost Hegemon until the end of time."}
+{"question": "How did the priests of the Black Grail from Ekron serve the Hegemon?", "answer": "They acted as messengers and Heralds, also serving as advisors sent by the Lord of Flies himself."}
+{"question": "What three major powers were victorious against the Cult of the Black Grail in the Corpse Wars?", "answer": "France, the Holy Roman Empire, and the Crown of England."}
+{"question": "Which city fell to the forces of Beelzebub, becoming a center of corruption?", "answer": "Avignon."}
+{"question": "Why did the traitorous cardinal betray Avignon?", "answer": "He was jealous of the Supreme Pontiff and desired to claim the throne of Peter for himself."}
+{"question": "Which specific disease afflicts Avignon?", "answer": "Avignon is afflicted by a virulent and unique strain of the Black Grail."}
+{"question": "Why did the Faithful adopt a containment strategy for Avignon?", "answer": "A policy of containment was chosen because the servants of Beelzebub do not pursue an open policy of expansion."}
+{"question": "Can you describe the Hunters of the Left-Hand Path?", "answer": "They are a faction that stalks Hell's primordial hinterlands to hunt nightmarish creatures."}
+{"question": "Name some activities performed by the Hunters of the Left-Hand Path.", "answer": "Their activities include pursuing nightmarish beasts and performing vile magicks."}
+{"question": "What defines The Hunters in the Trench Crusade setting?", "answer": "The Hunters are enigmatic entities that traverse hidden ley lines and frequent Hell's ancient, forgotten locales."}
+{"question": "Describe the terrain where The Hunters conduct their activities.", "answer": "The Hunters' domain is characterized by the cancerous, tortured wilderness of Hell."}
+{"question": "Describe the nature and location of the Hunter's rituals.", "answer": "The Hunter's rituals are solitary and involve appalling oblations, genuflecting, and obeisance at forgotten shrines."}
+{"question": "Who receives the Hunter's oblations and obeisance?", "answer": "Enigmatic beings of unfathomable power receive them."}
+{"question": "What defines an individual as a 'Hunter' in Trench Crusade?", "answer": "They are individuals persuaded to participate in the Court's hunt on Earth."}
+{"question": "Which specific challenging environments can Court Hunters navigate effortlessly?", "answer": "Court Hunters can navigate No Man's Land and the wastes of Hell with ease."}
+{"question": "What is the primary role of a Hunter in Trench Crusade?", "answer": "Hunters specialize in hunting and capturing mortal prey."}
+{"question": "How does the tormentor chain inflict harm on its victims?", "answer": "It extends and twists upon flesh, seizing targets in unrelenting agony without often granting death."}
+{"question": "Describe the physical transformation observed in villages and towns affected by the Black Grail.", "answer": "They are reduced to a bubbling, half-living slush of melted flesh."}
+{"question": "Identify the two military forces that deploy specialized units against Black Grail infestations.", "answer": "New Antioch and the Free State of Prussia."}
+{"question": "What 'honour' is granted to Black Grail victims who are melded with hell-flies?", "answer": "They are bestowed with the black honour."}
+{"question": "How does the original human consciousness within a Herald of Beelzebub experience its new form?", "answer": "It remains conscious, is slowly consumed internally as fuel, and is forced to fight for Hell's glory."}
+{"question": "What is the primary function of Heralds in combat operations?", "answer": "Heralds serve as the vanguard for Black Grail assaults."}
+{"question": "Describe the weapons used by Heralds.", "answer": "Heralds use discarded weapons infested with horrible, churning worms."}
+{"question": "Which entity's hunt on Earth is preceded by a vast cloud of smoke?", "answer": "The Court of the Seven-Headed Serpent."}
+{"question": "Name the creatures whose baying and buzzing signify humanity's demise upon the arrival of the Court of the Seven-Headed Serpent.", "answer": "Pit-locusts."}
+{"question": "Upon the opening of Hell's gate, what kind of entities emerged?", "answer": "Swarms of terrifying pit-locusts."}
+{"question": "Describe the primary nature and abilities of the Pit-locusts.", "answer": "They are known for delighting in tormenting humanity, possessing feral cunning and wicked bloodlust."}
+{"question": "What is the main purpose of the collected saints' remains in the Church Militant?", "answer": "They serve as the supreme advisory body for the Church and the armies of the Faithful."}
+{"question": "Which entities are tasked with guarding the true remains of saints?", "answer": "The Swiss Guard and a chosen contingent of winged Communicants guard the chambers."}
+{"question": "Name examples of vital issues that prompt a consultation with the Saints.", "answer": "Dispatching Paladins to Inferno, initiating a new front in the Great War, or uncovering the hidden plans of the Lord of the Sixty-Six."}
+{"question": "In what two ways is the process of consulting the Saints characterized?", "answer": "It is characterized as both costly and perilous."}
+{"question": "What is the main role of a Tactician in Trench Crusade?", "answer": "A Tactician's main role is to commune with Saints to gain strategic insight."}
+{"question": "What is the severe physical effect on Tacticians when they commune with Saints?", "answer": "The communion with Saints causes Tacticians to age a year per heartbeat."}
+{"question": "What is the form of advice Saints provide to the Cardinals of War?", "answer": "Their advice is given as Revelation, often difficult to decipher."}
+{"question": "Who produces false relics, and how do they conceal them?", "answer": "Heretic Necromancer-Clerics create them, disguising them with illusions to fool Examiner-Priests."}
+{"question": "Which specific military organization diligently searches the globe for genuine relics?", "answer": "The Papal Expedition forces."}
+{"question": "Which figure provides remuneration for the acquisition of curated relics?", "answer": "The Supreme Pontiff."}
+{"question": "Describe the fundamental nature of The Beast in Trench Crusade.", "answer": "The Beast is an ancient, primeval entity that existed before humanity and embodies the world's untamed, monstrous elements."}
+{"question": "What unnatural desire characterizes the half-beasts who serve The Beast?", "answer": "The half-beasts are characterized by an unnatural craving for human flesh."}
+{"question": "Describe the nature of the 'Path of the Beast'.", "answer": "It is a dark cult that adheres to ancient ways and prophesies the Beast's return."}
+{"question": "How was the Path of the Beast preserved during its long period of dormancy?", "answer": "Through the memory of ancient traditions, its Revelations, and eroded idols originating from beyond the stars."}
+{"question": "In what year was the Hellgate opened?", "answer": "The Hellgate opened in 1099."}
+{"question": "What was the main objective of the Beast's children following its reawakening?", "answer": "Their objective was to multiply and gain new adherents from the Children of God."}
+{"question": "What is 'The Beast' in Trench Crusade, and what is its goal?", "answer": "'The Beast' represents the Infernal powers or a demonic entity like Satan, whose goal is to gain converts from suffering humanity."}
+{"question": "What underlying human experiences make conversion to the Infernal appealing?", "answer": "The appeal of conversion stems from the overwhelming pressure and deprivation of the Great War, including grief, fear, trauma, poverty, and a desperate desire for release and forgetfulness."}
+{"question": "Under what celestial condition are the feral nymphs' hymns audible?", "answer": "When the moon grows fat."}
+{"question": "To what locations do the feral nymphs' siren songs draw people?", "answer": "To forbidding forests and desolate mountains."}
+{"question": "What is the core demand made by the Beast to those who encounter its idols?", "answer": "The Beast demands mortals willingly renounce their claim as the image of God and forsake the promise of Salvation."}
+{"question": "By what means does Beelzebub’s Black Grail obtain its victims?", "answer": "Beelzebub’s Black Grail obtains its victims forcibly."}
+{"question": "What title is given to the lowest-ranking followers of the Path of the Beast?", "answer": "They are known as Supplicants."}
+{"question": "What is the main benefit the Beast offers to its followers?", "answer": "The main benefit offered by the Beast is the bliss of oblivion."}
+{"question": "During which event are obsidian knives utilized for the ritual marking of Supplicants?", "answer": "Obsidian knives are used for carving Bestial Runes during the revelries of the Beast as Supplicants are initiated to the Path."}
+{"question": "When members of the Path convene, what phenomenon do their Bestial Runes exhibit?", "answer": "The Bestial Runes burn and bleed, reacting to other runes and manifesting latent, formidable powers."}
+{"question": "What is the typical destiny for Supplicants whose will falls short on the Path?", "answer": "They become half-bestial creatures, unable to achieve full beasthood."}
+{"question": "How does the transformative blood of the Beast enter Supplicants?", "answer": "Monstrous parasites of the Path inject them with it."}
+{"question": "When the Path attains sufficient power in a region, what strategic shift does it make?", "answer": "It transitions from concealment to open warfare."}
+{"question": "Which particular combat zone is notoriously filled with the abominations of the Path?", "answer": "No Man's Land."}
+{"question": "What is the leadership structure of Packs of the Path?", "answer": "Packs of the Path are led by Horned Priests."}
+{"question": "What unsettling rumors are associated with the Horned Priests' tactical prowess?", "answer": "Unsettling rumors suggest their tactical acumen points to a pre-Adamite race, similar to humans but with profound wisdom, that previously inhabited the earth."}
+{"question": "According to the text, what is identified as the paramount danger originating from the Black Grail?", "answer": "The Hegemons of the Black Grail."}
+{"question": "Name some of the lesser dangers associated with the Black Grail, apart from its Hegemons.", "answer": "The foul poisonous miasma, diseased iron locusts and flies, and horrific half-living warbands."}
+{"question": "How does the unchecked spread of the Black Grail ultimately culminate?", "answer": "It culminates in the manifestation of a Hegemon of the Grail once enough living things are tainted and blighted servants swarm."}
+{"question": "Which entity is identified as the master of the blighted servants like Thralls and Amalgams?", "answer": "The Lord of the Flies."}
+{"question": "Which entity do the Servants of the Grail invoke during their rituals?", "answer": "Beelzebub."}
+{"question": "Describe the ritualistic use of sacrificed innocents' bodies by the Servants of the Grail.", "answer": "Their bodies are opened, and entrails are arranged into a vast mandala of sigils."}
+{"question": "What is the final state of the Black Grail servants after their agonizing ritual?", "answer": "They meld into a putrid mound of colossal proportions."}
+{"question": "What strikes the earth from the sky's dreadful abscess?", "answer": "Great bolts of diseased blood."}
+{"question": "What is the initial stage of a Hegemon of the Black Grail's emergence?", "answer": "A Hegemon of the Black Grail emerges from a transforming quivering mass after its human hosts have melted away."}
+{"question": "What is the most prominent physical feature of a Hegemon of the Black Grail upon its full emergence?", "answer": "A Hegemon of the Black Grail is an armoured titan crowned by a swarm of Beelzebub's winged children."}
+{"question": "What is a Hegemon's primary role in combat?", "answer": "A Hegemon is capable of challenging entire battalions of infantry and whole tank corps."}
+{"question": "What is the source of the Hegemon's creation?", "answer": "Hegemons are creations of the Black Grail."}
+{"question": "Which major conflict has seen the rise of two Hegemons of the Black Grail?", "answer": "The Great War."}
+{"question": "What was the tragic fate of Paladin Engelier after defeating a Hegemon of the Black Grail?", "answer": "He perished in the duel."}
+{"question": "Upon death, what transformation awaits Heretic Priests?", "answer": "They rise as Trench Ghosts."}
+{"question": "In the afterlife, what positions do Heretic Priest Trench Ghosts hold?", "answer": "They serve as the nobility and commanders of the dead."}
+{"question": "What is the nature of a Ghost Leader?", "answer": "They are powerful undead beings, former aspirants to the Heretical order's hierarchy, who now rule as tyrannical shades."}
+{"question": "How do Ghost Leaders signify their self-proclaimed authority?", "answer": "They fashion crude, makeshift sceptres and crowns as empty symbols of the meaningless titles they declare for themselves."}
+{"question": "According to Trench Crusade lore, what is the primary motivation for the undead to seek combat?", "answer": "The undead can only experience a sense of significance during battle."}
+{"question": "How do Trench Ghost warbands typically interact with their adversaries over time?", "answer": "Trench Ghost warbands are known to stalk their enemies for prolonged periods and maintain strong resentments."}
+{"question": "What war machine is identified by its eerie searchlights and rumbling?", "answer": "The Tank Palanquin."}
+{"question": "Whose arrival is announced by the Barbed Wire Banshees and Tank Palanquins?", "answer": "An Undead Lord."}
+{"question": "Which individuals in the Legion adopt new identities?", "answer": "Heretic soldiers, especially those originating from devout nations."}
+{"question": "From what historical groups do Legionnaires derive their new names?", "answer": "They adopt names from ancient enemies of God, including groups like the Ammonites, Amalekites, and Canaanites."}
+{"question": "Who initiates the model activation process each Turn?", "answer": "The player with the Initiative."}
+{"question": "Is it possible for a model to activate more than once per Turn?", "answer": "No, a model may only activate once per Turn."}
+{"question": "What is the maximum distance for choosing a charge target?", "answer": "A charge target must be within 12 inches."}
+{"question": "What distance must a charging model achieve to initiate a Fight?", "answer": "The charging model must end its move within 1 inch of the target."}
+{"question": "Under what condition can a model perform a Retreat action?", "answer": "A model can perform a Retreat action only if it is within 1 inch of an enemy."}
+{"question": "By what distance does a model move during a Retreat action?", "answer": "During a Retreat action, a model moves directly away from its opponent a distance equal to its Movement Characteristic."}
+{"question": "What two conditions must be met for a model to execute a Ranged Attack via the Shoot action?", "answer": "The model must be further than 1 inch from an enemy and equipped with a Ranged Weapon."}
+{"question": "Which weapon keyword enables a model to both Shoot and perform a Charge or Fight action within a single activation?", "answer": "The ASSAULT keyword on a weapon allows a model to perform both actions in the same activation."}
+{"question": "What is the standard number of dice for a Trench Crusade Success Roll when no +DICE modifiers are in effect?", "answer": "The standard number is two dice."}
+{"question": "Regardless of +DICE modifiers, what quantity of dice results are kept from a Trench Crusade Success Roll?", "answer": "Two highest dice results are always kept."}
+{"question": "Describe the method for reconciling mixed +DICE and -DICE modifiers on a Success Roll.", "answer": "Conflicting +DICE and -DICE are canceled out in pairs until only a single type of modifier persists."}
+{"question": "Illustrate the resolution process for a Success Roll modified by +2 DICE and -1 DICE.", "answer": "One positive dice and one negative dice modifier are eliminated, resulting in a net +1 DICE added to the roll."}
+{"question": "How do believers in Trench Crusade receive divine messages?", "answer": "Believers receive divine messages through visions granted to those touched by Heaven and Revelations delivered by God's messengers."}
+{"question": "How are the Sisters of the Holy Orders identified and motivated to fight?", "answer": "Sisters of the Holy Orders are identified by stigmata and motivated to fight with sword and cross by angelic instruction."}
+{"question": "What is the primary role of Prophets and Prophetesses in Pilgrim Processions?", "answer": "They lead the processions, guided by their prophetic visions."}
+{"question": "Do Pilgrim Processions receive official approval from the Holy See?", "answer": "No, they are not officially sanctioned by the Holy See."}
+{"question": "Do most Pilgrims possess extensive military experience?", "answer": "No, most Pilgrims are individuals with little military training."}
+{"question": "Can a Pilgrim's mission continue even after their death?", "answer": "Yes, a Pilgrim's mission is not always ended by death."}
+{"question": "Who are the Ecclesiastic Prisoners?", "answer": "Ecclesiastic Prisoners are either captured foes compelled to atonement or repentant volunteers seeking grace."}
+{"question": "Which faction is responsible for guiding Ecclesiastic Prisoners into enemy territory?", "answer": "Trench Pilgrims direct Ecclesiastic Prisoners through the combat zone."}
+{"question": "Describe an Anchorite Shrine.", "answer": "It is a towering, twelve-foot-tall metal war machine, functioning as a living altar of war, often seen with powerful Pilgrim Processions."}
+{"question": "How does an Anchorite Shrine engage enemies?", "answer": "It wields colossal adamantine Catherine wheels to pulverize sinners and heretics, then displays their remains on the wheels as a deterrent."}
+{"question": "To which Saint do the Penitents of Pious Revenge pledge their allegiance?", "answer": "Saint Olga."}
+{"question": "Describe a distinctive act of devotion practiced by the Pilgrims of the Iron Path.", "answer": "They hammer nails into their heads to honor Saint Rita of Cascia."}
+{"question": "What is the preferred fighting style of the Procession of the Sacred Affliction?", "answer": "They exhibit a strong zeal for close quarters combat."}
+{"question": "What gruesome punishment do the Trench Pilgrims of the Procession of the Sacred Affliction inflict upon sinners?", "answer": "They drown them by tying millstones around their necks in the mire of No Man's Land."}
+{"question": "What is the primary characteristic of holding a seat on Hell's War Council?", "answer": "Seats on the War Council of the Court are rarely held for long by even the mightiest devils, due to the constant treacherous power struggles."}
+{"question": "What is the main task of the Yoke Fiends?", "answer": "Yoke Fiends are slavering work gangs responsible for erecting and demolishing statues of the Heads of the Serpent in response to shifts in Hell's political power."}
+{"question": "What defines the stability of the Court's hierarchy?", "answer": "The Court's hierarchy is inherently unstable, marked by continuous scheming and machinations among its high-ranking nobles."}
+{"question": "Identify some of the high nobles who frequently experience shifts in power within the Court.", "answer": "Dukes, marquises, margraves, barons, paramounts, princes, lords, ladies, and earls are some of the high nobles who constantly rise and fall."}
+{"question": "What directly determines a demon's power in Trench Crusade?", "answer": "The amount of mortal followers they successfully corrupt."}
+{"question": "How does a demon's power fluctuate concerning its mortal following?", "answer": "Its strength rises and falls depending on the count of corrupted mortal followers."}
+{"question": "By whom are the Wretched driven to war?", "answer": "The Wretched, mortal slaves of the Court, are lashed onward by Yoke Fiends."}
+{"question": "How do Yoke Fiends compel the Wretched to march?", "answer": "They mercilessly whip the Wretched onward as they march to war."}
+{"question": "What is New Antioch's global standing and its protective role for the continents?", "answer": "It is the most important fortress-city in the world, acting as the Sword and Shield of Europa and Africa."}
+{"question": "Despite numerous attacks, have New Antioch's renowned walls ever been compromised, and how many major sieges has it survived?", "answer": "No, its famed walls, which feature seventy-seven mighty towers, have never been breached, even after withstanding eight great sieges."}
+{"question": "Which organization is responsible for constant street patrols in Trench Crusade?", "answer": "The Office of the Propagation of Virtue."}
+{"question": "What event, held weekly, attracts large audiences in Trench Crusade?", "answer": "The execution of heretics."}
+{"question": "Why has the Principality of New Antioch been able to endure against the Heretic forces?", "answer": "New Antioch stands to this day due to the internal conflict and bickering amongst the Archdevils and Princes of Hell."}
+{"question": "How do the immortal Rulers of Hell perceive the duration of the Great War?", "answer": "To them, the centuries-long war has barely even started because they are immortal beings who existed before time."}
+{"question": "What title holds the nominal supreme command of the Faithful's military forces?", "answer": "The Duke of New Antioch."}
+{"question": "Which military force is considered the most formidable single contingent the Faithful can field?", "answer": "The standing army of the Principality."}
+{"question": "What landmark is currently controlled by the Principality and contains many graves?", "answer": "The Necropolis of Antioch."}
+{"question": "What major military action are the Heretics preparing for?", "answer": "They are marshalling for the largest offensive operation in history against the Principality."}
+{"question": "What are the main activities Combat Biologists perform on the battlefield?", "answer": "Combat Biologists perform battlefield vivisections and collect samples of Hell's servants."}
+{"question": "For the Pontifical forces, what is the name of the agency responsible for training Combat Biologists?", "answer": "The Pontifical Office of Biological warfare is responsible for training Combat Biologists for the Pontifical forces."}
+{"question": "In what hazardous environments do Combat Biologist corps commonly serve?", "answer": "They serve in units engaged in the most perilous battlefield scenarios, such as deep within No Man’s Land, near the Hellgate, or within the domains of Beelzebub."}
+{"question": "Why do Combat Biologists extract samples of 'fell flesh'?", "answer": "These samples are sought for potential insights into reversing the physical and spiritual harm caused by the Invisible Labyrinth."}
+{"question": "How are the weaknesses of captured horrors identified?", "answer": "By testing their pain tolerance and subjecting them to various chemical, biological, and sacred compounds."}
+{"question": "Could you describe the doors of the House of Wisdom's reinforced wing?", "answer": "They are constructed from meteoric iron and bear the shape of the Seal of Solomon."}
+{"question": "Name some of the clandestine sites where dangerous creatures are confined in Trench Crusade.", "answer": "Clandestine sites include New Antioch, the Vatican, and Königsberg."}
+{"question": "What two main reasons compel authorities to keep creature confinement locations secret?", "answer": "Authorities maintain secrecy to foil Heretic rescue missions and to avert public panic from potential escapes."}
+{"question": "Which professionals are credited with initiating the joint research between the Sultanate and New Antioch?", "answer": "Senior Biologists from the Sultanate and New Antioch's holy laboratory."}
+{"question": "What specific method is stated for the exchange of information between the collaborating Biologists?", "answer": "They share data and results of their research."}
+{"question": "What knowledge is strictly prohibited from dissemination beyond an order's high-ranking members?", "answer": "The secrets pertaining to combat biology."}
+{"question": "Identify the two influential powers actively pursuing the organization associated with combat biology.", "answer": "The Sultanate and the Church."}
+{"question": "When is a dice roll required to determine the target of an attack?", "answer": "A dice roll is required if the chosen target is within 1 inch of any friendly models."}
+{"question": "What happens on a roll of 1-3 when targeting an enemy near friendly models?", "answer": "The attacking player must target a friendly model instead."}
+{"question": "How does cover impact an attacking model's dice roll?", "answer": "An attacking model reduces their dice roll by 1 if the target is in cover."}
+{"question": "Under what conditions is a model considered to be in cover?", "answer": "A model gains cover if it touches a terrain piece that is at least ½\" tall and as wide as the model's base, and the terrain piece is positioned between the model and the attacker."}
+{"question": "How does the Defended Obstacle rule affect combat rolls?", "answer": "It imposes a -1 DICE penalty on the attacking model's roll if the target is in cover."}
+{"question": "Describe the conditions under which a model gains cover.", "answer": "A model is in cover if it's touching a terrain piece that is at least ½\" high and as wide as its base, and this piece is between it and the attacker."}
+{"question": "What height difference is required for a model to attempt a Diving Charge?", "answer": "The target enemy models must be a minimum of 3 inches below the charging model."}
+{"question": "What advantages does a successful Diving Charge provide to the model?", "answer": "A successful Diving Charge exempts the model from a Falling Injury Roll and adds +1 DICE to its subsequent Melee Attack."}
+{"question": "How would you classify Trench Crusade as a game?", "answer": "Trench Crusade is classified as a grimdark tabletop skirmish wargame."}
+{"question": "What main resources does the Trench Crusade manual provide players?", "answer": "The manual provides players with the necessary rules and lore for engaging in tabletop skirmish battles."}
+{"question": "Into how many main sections are the Trench Crusade rules split?", "answer": "The Trench Crusade rules are split into two main sections."}
+{"question": "What do the Core Rules teach players?", "answer": "The Core Rules teach players the fundamental aspects of the game."}
+{"question": "What kind of game is Trench Crusade?", "answer": "It is a miniatures game."}
+{"question": "What is the usual size of a starting warband in Trench Crusade?", "answer": "A starting warband typically includes 6 to 10 models."}
+{"question": "Which system of units is employed for measuring distances in Trench Crusade?", "answer": "Trench Crusade employs the archaic imperial measurement system."}
+{"question": "Which instrument is necessary for assessing weapon range in the Trench Crusade game?", "answer": "A tape measure is necessary for assessing weapon range."}
+{"question": "What specific kind of dice does Trench Crusade employ?", "answer": "Trench Crusade utilizes standard six-sided dice (d6)."}
+{"question": "What is the suggested quantity of dice sets for Trench Crusade?", "answer": "At least three sets of six dice are recommended for Trench Crusade games."}
+{"question": "Which titles does Beelzebub hold in Trench Crusade lore?", "answer": "Beelzebub is referred to as the Lord of the Flies and the Prince of Gehenna."}
+{"question": "What compels mortals to petition Beelzebub during the Black Grail?", "answer": "Driven by despair, mortals pray for his sparing mercy in return for their worship and servitude."}
+{"question": "What becomes of individuals after welcoming the Black Grail's corruption?", "answer": "They are transformed into cadaver-like beings, caught between life and death."}
+{"question": "How do the cadaver-like creatures serve the Black Grail?", "answer": "They guide the Black Grail to isolated farmsteads and remote settlements."}
+{"question": "How do Plague Knights progress within the Order of the Fly?", "answer": "They advance by locating and disfiguring living creatures until they are unrecognizable."}
+{"question": "What specific action allows Plague Knights to increase their favor with Beelzebub?", "answer": "The transformation of living creatures beyond their original form."}
+{"question": "Can you describe the Free State of Prussia in Trench Crusade?", "answer": "The Free State of Prussia is a prominent nation-state in Trench Crusade, characterized by its deep noble lineage and strong military heritage."}
+{"question": "What kind of fighting skills are necessary for joining elite units like the Stosstruppen?", "answer": "Aspirants must develop advanced warfighting abilities, including proficiency in shooting, brawling, and dueling with various swords."}
+{"question": "What military rank does Frederica Von Goltz hold?", "answer": "She holds the rank of Hauptmann."}
+{"question": "What is the composition of Frederica Von Goltz's sword blade?", "answer": "It is an orichalcum-alloy."}
+{"question": "Under what condition does a player automatically gain Initiative based on Warband composition?", "answer": "A player automatically gains Initiative if their Warband contains fewer models than their opponent's Warband."}
+{"question": "What is the procedure for breaking an Initiative tie when Warbands have equal model counts?", "answer": "To break an Initiative tie, each player performs a dice roll, and the player with the higher result wins Initiative."}
+{"question": "What is the primary benefit of having the Initiative in a Turn?", "answer": "The player with Initiative decides which player performs the initial Activation in the Activation Phase."}
+{"question": "After Initiative is decided, what is the next step at the start of a Trench Crusade Turn?", "answer": "Players proceed to carry out any designated start of turn tasks."}
+{"question": "What is the primary rule for assigning Initiative in Trench Crusade?", "answer": "Initiative is assigned to the player who has the least number of models currently present on the battlefield."}
+{"question": "Which specific conditions make a model uncounted for Initiative?", "answer": "Models that are Down or Out of Action are specifically excluded from the Initiative count."}
+{"question": "How does Trench Crusade refer to actions players must perform at the turn's outset?", "answer": "They are called 'start of turn tasks'."}
+{"question": "If there are multiple 'start of turn tasks' simultaneously, who decides their sequence?", "answer": "The player holding the Initiative determines their resolution order."}
+{"question": "Which player initiates the model activation process each turn?", "answer": "The player holding the Initiative starts the model activation sequence."}
+{"question": "What is the maximum number of times a single model can be Activated in a given turn?", "answer": "A model can only be Activated once per Turn."}
+{"question": "Upon gaining Initiative at the start of a Turn, what is the first action a player must perform?", "answer": "The player with Initiative must select and Activate one model from their Warband."}
+{"question": "How many times can a single model be Activated during a given Turn?", "answer": "A single model can only be Activated once per Turn."}
+{"question": "What determines the maximum distance a model can move?", "answer": "A model's Movement Characteristic determines the maximum distance it can move."}
+{"question": "Does a standard movement action require a dice roll?", "answer": "No, a standard movement action does not require a dice roll."}
+{"question": "What are the criteria for selecting a target for a Charge action?", "answer": "A target for a Charge action must be an enemy model, visible to your model, and within a 12-inch range."}
+{"question": "What specific action can a model take upon successfully completing a Charge move within close proximity to its target?", "answer": "If a model finishes its Charge move within 1 inch of the target, it is then able to Fight."}
+{"question": "Under what condition can a model initiate a Retreat action?", "answer": "A model can initiate a Retreat action only if it is within 1 inch of an enemy."}
+{"question": "What determines the movement distance of a model performing a Retreat action?", "answer": "The model moves a distance equal to its Movement Characteristic."}
+{"question": "Before a model can attempt a Dash action, what specific roll must be made?", "answer": "A Risky Success Roll."}
+{"question": "What is the consequence if a model fails its Risky Success Roll when attempting a Dash?", "answer": "The model's Activation ends."}
+{"question": "What two requirements must a model meet to perform a Shoot action?", "answer": "It must be more than 1\" from the enemy and possess a Ranged Weapon."}
+{"question": "When can a model combine a Shoot action and a Charge action in a single activation?", "answer": "A model can combine these actions only if the weapon used for Shooting has the ASSAULT keyword."}
+{"question": "What penalty is incurred for failing a Risky Success Roll?", "answer": "Failure on a Risky Success Roll terminates the model's Activation and grants the opponent an immediate model Activation."}
+{"question": "Where can players find the results for a Success Roll's success or failure?", "answer": "The specific instructions for the task being performed detail the outcomes for both successful and failed Success Rolls."}
+{"question": "What is the core mechanic players utilize to control their units during the Activation Phase?", "answer": "Players control their units by alternating the activation of their models, one at a time."}
+{"question": "Under what condition does the Activation Phase end?", "answer": "The Activation Phase ends when both players have completed a single activation for all of their respective models."}
+{"question": "How do players manage model activations in Trench Crusade's Activation Phase?", "answer": "Players alternate, activating one model at a time."}
+{"question": "Following the Activation Phase, what is the next scheduled game phase?", "answer": "The Morale Phase."}
+{"question": "At what point does a Warband need to perform a Success Roll due to losses?", "answer": "A Warband performs a Success Roll during the Morale Phase if at least half its models are Down or Out of Action (rounded up)."}
+{"question": "How does a Warband become Shaken during the Morale Phase?", "answer": "A Warband becomes Shaken in the Morale Phase by failing its required Success Roll."}
+{"question": "What specific conditions trigger a Warband's Morale Check?", "answer": "A Morale Check is triggered in the Morale Phase when half or more of the Warband's models are Down or Out of Action."}
+{"question": "What immediate effect does a failed Morale Check have on a Warband?", "answer": "A Warband that fails a Morale Check immediately becomes Shaken."}
+{"question": "What is the rule for fractions when determining the Morale Check threshold?", "answer": "Fractions are always rounded up."}
+{"question": "Under what condition must a Warband perform a Morale Check?", "answer": "A Morale Check is mandatory when at least half of the Warband's initial models are Down or Out of Action."}
+{"question": "What effect does being Shaken have on a Warband's Success Rolls?", "answer": "All Success Rolls for models from a Shaken Warband become Risky, unless already Risky."}
+{"question": "What is the consequence of a Shaken Warband failing its mandatory Morale Check?", "answer": "The Warband flees, resulting in an immediate game loss for the player."}
+{"question": "Can you define 'end of turn tasks' in Trench Crusade?", "answer": "'End of turn tasks' refer to specific actions or requirements that players must complete according to certain rules at the conclusion of a turn."}
+{"question": "In a situation with multiple end of turn tasks, whose responsibility is it to establish their sequence?", "answer": "The player currently holding the Initiative is responsible for deciding the sequence of multiple end of turn tasks."}
+{"question": "What choice does a player have after their Warband fails a Morale Check?", "answer": "They can choose to flee immediately and forfeit the game."}
+{"question": "Why might a player opt to retreat after a failed Morale Check?", "answer": "To conserve their Warband's losses rather than fighting until complete destruction."}
+{"question": "Who comprises the Death Commandos?", "answer": "They are a highly select group of Heretic youth, trained beyond the Gates of Hell to serve as elite members of the Heretic Legions."}
+{"question": "From what age are Heretics chosen for Death Commando training?", "answer": "Heretics are selected for Death Commando training from a very early age."}
+{"question": "Which specific unit undergoes brutal training in the Seventh Circle of Inferno?", "answer": "The Seraphim."}
+{"question": "Beyond general martial training, what specific deadly proficiencies do the Seraphim acquire?", "answer": "The deadly arts of assassination, and the use of all manner of weapons and poisons."}
+{"question": "How are Death Commandos characterized after their training?", "answer": "They are characterized as silent spectres of carnage."}
+{"question": "What is the organizational allegiance of the Death Commandos?", "answer": "They are Heretic troops."}
+{"question": "Can you name the three master Death Commandos known for their infamy?", "answer": "Barabbas, Haman, and Cain."}
+{"question": "Immediately following the 1894 assassinations, what state were Church forces in?", "answer": "They were in turmoil, enabling the Heretic Legions to launch a rapid offensive."}
+{"question": "What ritual marks the completion of Death Commando training concerning their tongues?", "answer": "Their tongues are ceremonially removed."}
+{"question": "What is the purpose behind the ceremonial removal of Death Commando tongues?", "answer": "It prevents them from ever disclosing learned information."}
+{"question": "What is the primary significance of the Invincible Iron Wall of Dhu al-Qarnayn to the Sultanate?", "answer": "It is both the symbol of the Sultanate and the fundamental reason for its existence."}
+{"question": "Describe the appearance of the Invincible Iron Wall of Dhu al-Qarnayn.", "answer": "Its surface glitters like new steel, remains untarnished despite bombardments, and has embedded gemstones that light up at night."}
+{"question": "What flows inside the wall, keeping it warm?", "answer": "Scorching magma."}
+{"question": "What happens to invaders when the wall's surface is breached?", "answer": "An outpouring of molten metal brings them a swift death."}
+{"question": "By whom were the defensive towers and bulwarks erected?", "answer": "The sultans from various historical periods."}
+{"question": "What is the spiritual purpose of the structures' great spires?", "answer": "They serve as minarets to summon believers for salah."}
+{"question": "What is the total count of the Sultanate's Great Gates?", "answer": "The Sultanate has four Great Gates, broadly aligning with the four cardinal directions."}
+{"question": "Which massive, winged beasts protect each of the Sultanate's Great Gates?", "answer": "Each Great Gate is defended by two colossal, winged takwin creatures."}
+{"question": "What is the main role of the buraq takwin?", "answer": "They screen travelers entering the Sultanate, using questions and riddles to identify Heretics and safeguard Believers."}
+{"question": "Why do buraq takwin suffer existential dread?", "answer": "Their dread stems from knowing they are artificial beings, created by man, and thus cannot achieve divine salvation."}
+{"question": "How much does it cost the Sultan financially to produce or keep a Lion of Jabir?", "answer": "The Sultan incurs a cost equivalent to the annual revenue of a complete nāḥiyah."}
+{"question": "Who are the primary individuals tasked with making and sustaining a Lion of Jabir?", "answer": "The elite alchemists from the House of Wisdom hold this primary responsibility."}
+{"question": "What are the two main functions of the machines developed by the House of Wisdom for the Iron Wall?", "answer": "To regulate precipitation in the lands of the Believers and protect Sultanate air space from Heretic aerial forces."}
+{"question": "Which specific Heretic aerial units are primarily affected by the Iron Wall's defensive winds?", "answer": "Hell-bombers and long-range reconnaissance planes."}
+{"question": "What method is used to enhance the physical capabilities of janissaries?", "answer": "Potent elixirs from the mystic Jabirean arts."}
+{"question": "Which specific group is responsible for creating janissary protective talismans?", "answer": "Blind thaumaturgists of the School of the Meteoric Omen."}
+{"question": "Is a return journey possible once a mortal embarks on the Path of the Beast?", "answer": "No, there is no turning back."}
+{"question": "What is the primary objective of supplicants who reach the end of the Path of Ruin?", "answer": "To discover a method to undo the form God's Creation has imposed on mortals."}
+{"question": "How is the Path of the Beast fundamentally characterized?", "answer": "It is a journey backwards through the invisible labyrinth of Creation itself."}
+{"question": "What personal and psychological elements does a petitioner sacrifice while walking the Path of the Beast?", "answer": "They lose parts of their humanity and their memories."}
+{"question": "What are the common outcomes for adherents who fail to complete the Path?", "answer": "They are either lost in dead-ends or lose their will, transforming into creatures between the Beast and man."}
+{"question": "Name some creatures that exist in a state between the Beast and humanity.", "answer": "Skinwalkers, changelings, werewolves, and marbendil are among the names for such creatures."}
+{"question": "Who educates followers about Behemoth and the labyrinth?", "answer": "The horned priests."}
+{"question": "How do the horned priests portray Behemoth?", "answer": "As the first of God's Works, a beast that existed before the world."}
+{"question": "Which entity makes its return to Earth in an embryonic and weak state?", "answer": "The Beast, also known as the Antichrist."}
+{"question": "By what is the Beast's transformation into an apocalyptic monstrosity governed?", "answer": "Its own will and the hatred it holds for all humankind."}
+{"question": "What percentage of humanity has sworn allegiance to Hell in Trench Crusade?", "answer": "One-third."}
+{"question": "Name the primary satanic military organization operating on Earth in Trench Crusade.", "answer": "The Heretic Legions."}
+{"question": "Which ecclesiastical figure sanctions the deployment of spies into infernal territories?", "answer": "The Cardinal Protector."}
+{"question": "What common outcome befalls agents infiltrating Hell's domains?", "answer": "They are typically apprehended and vanish without a trace."}
+{"question": "How are the entities mentioned in the infernal regions worshipped or honored by their followers?", "answer": "Followers cast firstborn into burning statues of Baal, prostrate themselves, and carve their own flesh before idols of the Golden Calf, and dedicate cathedrals to the Princes of Hell."}
+{"question": "What are the primary structural characteristics that define the cities of the infernal regions?", "answer": "The infernal cities are characterized by inverted pyramids, towers of iron and black stone that plunge into the depths, and cathedrals dedicated to the Princes of Hell hanging from great arches of volcanic stone."}
+{"question": "What are the primary components used in the construction of Trench Crusade factories?", "answer": "Mutilated flesh and metal are the primary components."}
+{"question": "What is the ultimate goal for the populations engaged in the war on Earth?", "answer": "Their ultimate goal is to bring down the Throne of Heaven."}
+{"question": "How does one become eligible for Legion initiation?", "answer": "By making it within sight of Hell's Maw and being deemed worthy."}
+{"question": "What identifies a Heretic Legionnaire's allegiance physically?", "answer": "They are branded with the mark of the Devil Lord who has claimed them."}
+{"question": "Can I charge and after completing attacks take the fight action in the same turn?", "answer": "A charge is considered a move action that allows you to move into melee range. Attacks are separate actions. Generally, you can charge (move), then take a fight action. You cannot charge twice in the same activation, but you can dash (a risky move action) and then charge. The fight action allows melee attacks, and you cannot break up one action into parts; you must complete the move before attacking."}
+{"question": "Why does the Iron Sultanate seem safer and more secured than other factions in Trench Crusade?", "answer": "The Iron Sultanate is protected by a massive, invincible iron wall known as the Great Sultanate of the Invincible Iron Wall of the Two Horns That Pierce the Sky. They have strong artillery and death golems backing up this fortification. Although they have fewer warcrimes relative to others, they still have child soldiers, slave soldiers, and experimentation. The wall and their defensive structures make them more secure compared to other areas constantly exposed to amphibious invasion and raids."}
+{"question": "Why are most characters in Trench Crusade depicted with their faces covered?", "answer": "In-universe reasons include protection against bullets, mustard gas, shrapnel, and other battlefield hazards. It also serves to dehumanize soldiers, enhancing the grimdark atmosphere. Out-of-universe, it makes the miniatures easier to sculpt, print, and paint, and allows players to project their own interpretations onto characters."}
+{"question": "Are artillery witches and automatons sentient?", "answer": "Artillery witches are heavily augmented humans who may possess limited self-awareness and can gain some experience, akin to Terminator-like learning. Automatons are more like clockwork dolls, likely made from bits of damned souls with limited awareness, able to follow orders but lacking emotion or independent thought."}
+{"question": "How does the 'Faithful Followers' ability of the Observer work when commanding an enemy model?", "answer": "The Observer's activation ends immediately, and the targeted model's activation begins. The controller of that model (whether friend or foe) controls its actions. When you command an enemy model, they control its activation, but you can force them to activate a model at an inconvenient time or position."}
+{"question": "What is the recommended way to handle swarm tactics versus elites in Trench Crusade?", "answer": "Swarm tactics can be effective but are limited by unit caps. Elites have better armor and higher chances to hit, making them more consistent and powerful. Campaign play rewards elites due to experience and skills. A balanced list with a mix of elites and basic troops is generally optimal."}
+{"question": "Does high ground provide cover bonuses when shooting at targets?", "answer": "High ground by itself does not provide a cover bonus if the target is fully visible. Cover bonuses require at least partial obstruction of the target model's base by terrain. Shooting from higher ground grants +1D bonus to hit, but shooting up at a target on high ground does not confer any penalty."}
+{"question": "Can all units shoot at targets in melee in Trench Crusade?", "answer": "Shooting into melee requires randomizing the target between friendlies and enemies 50/50. Some units have abilities that allow shooting without line of sight or into melee, but generally, shooting into melee is risky and randomized."}
+{"question": "Why don't the faithful have submarines or sea superiority like the heretics?", "answer": "Heretics have a head start in weapons technology and logistical advantages, including resources mined from Hell and demonic forges. The faithful have not reverse engineered or replicated these technologies fully. The heretics' control of key territories like the Middle East also grants them access to resources like oil."}
+{"question": "Can the faithful reclaim territory from Hell?", "answer": "Yes, the faithful can reclaim territory, but it is difficult due to supernatural and mundane obstacles such as portals, corrupted environments, and hostile populations. Reclamation takes time and effort, and the war is largely a brutal stalemate with both sides pushing and retreating."}
+{"question": "Why are Paladins sent individually on missions instead of in groups?", "answer": "Each Paladin's armor and training are specialized for a specific circle of Hell, making it hard to send multiple together. Sending one Paladin creates a heroic figure or martyr to inspire humanity, while sending multiple risks losing many at once. Paladins are rare and used sparingly due to their value and vulnerability."}
+{"question": "How do the rules handle movement when a model is down?", "answer": "When a model is down, its activation immediately ends. It automatically stands up at the start of its next activation but with half of its usual movement (including dash and charge). While down, melee injury rolls against it are at +1D and any actions it tries to make are at -1D, though it rarely acts while down."}
+{"question": "What is the difference between melee and ranged weapons in terms of how many can be equipped?", "answer": "Models have separate 'hands' for melee and ranged weapons. Typically, two hands for melee and two for ranged, plus one for grenades. Equipment like shields or instruments take up hands in both categories. Some models can dual wield pistols (counted as melee weapons). Specific faction rules may modify these limits."}
+{"question": "Are there any units or abilities that allow attacking without line of sight?", "answer": "Very few units have abilities that allow attacks without line of sight. For example, blast weapons like grenades or artillery witch bombs target a point and can hit models out of line of sight as long as the blast point is visible and valid. Most attacks require line of sight to the target."}
+{"question": "Can an Observer's 'Faithful Followers' ability allow controlling an enemy model's activation?", "answer": "No, the ability ends the Observer's activation and forces the targeted model's activation immediately after. The player controlling that model controls its actions. This allows forcing opponents to activate inconvenient models or gaining an extra activation for your own units."}
+{"question": "How does the 'Imported Wares' skill of the Iron Sultanate's Sublime Porte work with mechanized infantry armor?", "answer": "By the rules as written, the Iron Sultanate can import Machine Armour from the New Antioch armory, including mechanized infantry armor, but it must be for elite units. Engineer Body Armour cannot be used by Sultanate units."}
+{"question": "Can you shoot during a charge action?", "answer": "No, charge is a move action to enter melee range. Attacks are separate actions. After charging, you can take a fight action to make melee attacks. You cannot interrupt a charge to shoot; shooting requires a separate action."}
+{"question": "How do Yeomen perform in combat and what are good loadouts for them?", "answer": "Basic Yeomen with bolt action rifles have modest hit chances and damage output, often serving as cheap bodies or objective holders. Shotguns with +DICE bonuses at close range are effective when combined with shocktrooper charges. Utility options like medi-kits increase survivability. Balancing cost and effectiveness involves mixing cheap Yeomen with better-equipped elites."}
+{"question": "What are the ways to move out of trenches or climb structures?", "answer": "Models can climb out of trenches with their move, dash, or charge actions as trenches are treated as structures with movement costs. Climbing sheer surfaces like walls requires a risky roll. Terrain rules should be agreed upon prior to the game."}
