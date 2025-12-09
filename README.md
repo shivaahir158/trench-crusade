@@ -1,3 +1,24 @@
+Trench Crusade — AI Dungeon-style Chatbot (ESE577 Final Project)
+
+Overview
+
+This repository contains an AI-dungeon style, interactive text-adventure chatbot built around the Trench Crusade universe. For our ESE577 final project we fine-tuned Mistral-7B-Instruct using LoRA to produce short, lore-driven game transcripts and interactive sessions.
+
+Model and Training
+
+- Base model: Mistral-7B-Instruct
+- Fine-tuning: LoRA-based adaptation on a curated Trench Crusade text corpus
+
+Dataset and Research Motivation
+
+The training corpus includes Trench Crusade material created after the original training cutoff of Mistral-7B-Instruct (Trench Crusade was created in 2023). Because the corpus contains post-cutoff data, this project is well-suited to study model behavior when the model encounters newer, highly specific lore: we evaluate hallucination, semantic drift, and consistency across long-form, lore-heavy gameplay (similar in complexity to long-standing franchises such as Warhammer 40k).
+
+Goals
+
+- Produce an engaging, interactive game experience in the Trench Crusade setting.
+- Analyze hallucination and semantic drift when models are fine-tuned on post-cutoff, niche lore.
+- Demonstrate LoRA fine-tuning applied to a Mistral-7B-Instruct base for a small research/demo project.
+
 This is the prompt used to generate the games:  
 
 You are an AI specialized in generating interactive, text-based adventure game transcripts based on the Trench Crusade setting. Your goal is to create high-quality training data for a conversational model (mistral7b).
