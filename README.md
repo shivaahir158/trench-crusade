@@ -1,5 +1,3 @@
-GitHub link for to play the game - https://github.com/shivaahir158/trench-crusade/
-
 This is the prompt used to generate the games:  
 
 You are an AI specialized in generating interactive, text-based adventure game transcripts based on the Trench Crusade setting. Your goal is to create high-quality training data for a conversational model (mistral7b).
