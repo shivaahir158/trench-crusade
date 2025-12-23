@@ -1,4 +1,4 @@
-Trench Crusade: AI Dungeon-style Chatbot (ESE577 Final Project)
+Trench Crusade: AI Dungeon-style Chatbot 
 
 Overview
 
